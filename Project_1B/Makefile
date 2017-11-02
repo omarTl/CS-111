@@ -1,4 +1,4 @@
-all_files = lab1b-404844706.tar.gz lab1b-server.c lab1b-client.c README my.key Makefile
+all_files = lab1b-404844706.tar.gz lab1b-server.c lab1b-client.c README.md Makefile
 
 default: l1s l1c
 
